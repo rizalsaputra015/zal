@@ -15,6 +15,7 @@ body {
   background: #000;
   font-family: 'Baloo', cursive;
 }
+.hidden { visibility: hidden;}
 
 .wrapper {
   position: absolute;
